@@ -1,0 +1,129 @@
+body{
+        padding: 0px;
+        margin: 0px;            
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navbar a:hover{
+    color: #528DD7;
+}
+img{
+    margin-right: 50px;
+    width: 30px;
+    height: 30px;
+}
+.navbar a{
+    font-family: sans-serif;
+    color: gray;
+    text-decoration: none;
+    padding: 40px;
+}
+.navbar span i{
+    font-size: 30px;
+    margin-left: 180px;
+}
+.text input{
+    font-size: 20px;
+    margin:10px 280px ;
+    border-radius: 30px;
+    width: 700px;
+    height: 30px;
+    padding: 10px;
+}
+.text input:hover{
+    border: 5px solid #528DD7;
+}
+.text i{
+    margin-left: 200px;
+}
+.navbar_tow{
+    display: flex;
+    margin-left: 80px;
+}
+.navbar_tow span{
+    margin-left: 50px;
+}
+.box_01{
+    text-align: center;
+    width: 125px;
+    height: 125px;
+    font-size: 40px;
+    background-color:white;
+    margin: 20px;
+}
+.box_01 p{
+    font-size: 17px;
+}
+.box_01:hover{
+    color: #528DD7;
+    border-bottom: 5px solid #528DD7;
+}
+.navbar_tow span i:hover{
+    color: #0303cea1;
+}
+.dropdown select{
+    width: 165px;
+    height: 50px;
+    font-size: 16px;
+    padding: 10px ;
+    border-radius: 15px;
+    margin: 60px 20px 0px 0px  ;
+}
+.dropdown select:hover{
+    border: 5px solid #528DD7;
+  
+}
+.navbar_tow span i{
+    font-size: 25px;
+    margin: 80px 20px 0px 0px;
+    cursor: pointer;
+}
+.navbar_tow .tow{
+    font-size: 30px;
+}
+
+
+.box_one{
+    width: 1300px;
+    height: 1100px;
+    display: flex;
+    align-items: first baseline;
+    justify-content: flex-end;
+    background-color:bisque;
+}
+.box_1{
+    width: 1000px;
+    height: 1100px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #F0F1F3;
+}
+.box{
+    text-align: center;
+    border-radius: 15px;
+    width: 125px;
+    height: 125px;
+    font-size: 40px;
+    background-color:white;
+    margin: 20px;
+}
+.box i{
+    padding: 20px 0px 0px 0px;
+}
+.box span{
+    font-size: 16px;
+}
+.box:hover{
+    background-color: #FED558;
+}
+.box p{
+    padding: 0px;
+    margin-top: 10px;
+    font-size: 16px;
+    font-family: monospace;
+}

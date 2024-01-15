@@ -2,6 +2,7 @@ body{
         padding: 0px;
         margin: 0px;            
 }
+/* ******************************.navbar************************* */
 .navbar{
     display: flex;
     align-items: center;
@@ -33,6 +34,7 @@ img{
     height: 30px;
     padding: 10px;
 }
+/* *****************************.box_01:hover************************************ */
 .text input:hover{
     border: 5px solid #528DD7;
 }
@@ -85,7 +87,7 @@ img{
     font-size: 30px;
 }
 
-
+/* ***************************boxes************************* */
 .box_one{
     width: 1300px;
     height: 1100px;
